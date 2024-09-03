@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "historia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "o bf ficou Impressionado"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "historia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ai o Mathexs falou se podia so mais ultima "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "historia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "por que ele achou essa facil dms"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "historia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "o bf sem recusar , Aceitou"
+		}
+	]
+}
