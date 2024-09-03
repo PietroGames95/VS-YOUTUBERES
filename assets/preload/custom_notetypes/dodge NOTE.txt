@@ -1,0 +1,3 @@
+texture = "Note_dodge"
+missHealth = "0.3"
+hitHealth = "0.0"
