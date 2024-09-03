@@ -1,0 +1,3 @@
+Value 1: Duration
+------------------
+Value 2: 1 = UNO, 2 = Rery, 3 = set, 4 = GO

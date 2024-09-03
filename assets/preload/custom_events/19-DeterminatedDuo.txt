@@ -1,0 +1,5 @@
+with this event you can add a timer with the sawblade
+
+the only difference its that this sawblade dont have
+
+texture and instakill you if hit (no matter what)
