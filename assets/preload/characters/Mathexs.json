@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				108
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				89,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY!!"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				111
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				111
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				138
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mathexs",
+	"position": [
+		-50,
+		330
+	],
+	"healthicon": "Mathexs",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		71,
+		77
+	],
+	"camera_position": [
+		-120,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

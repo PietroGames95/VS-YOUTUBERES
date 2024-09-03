@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				191
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				101,
+				191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				158,
+				178
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				212
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				102,
+				195
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY!!"
+		},
+		{
+			"offsets": [
+				99,
+				194
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "ALT 2 BF LEFT"
+		},
+		{
+			"offsets": [
+				128,
+				203
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "ALT 2 BF DOWN"
+		},
+		{
+			"offsets": [
+				100,
+				212
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "ALT 2 BF UP"
+		},
+		{
+			"offsets": [
+				81,
+				210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "ALT 2 BF RIGHT"
+		},
+		{
+			"offsets": [
+				61,
+				203
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				102,
+				201
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF NOTE LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Caio",
+	"position": [
+		-50,
+		350
+	],
+	"healthicon": "caio",
+	"flip_x": true,
+	"healthbar_colors": [
+		89,
+		63,
+		255
+	],
+	"camera_position": [
+		-190,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

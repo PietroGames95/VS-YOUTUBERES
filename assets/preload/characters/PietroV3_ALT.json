@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-61
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "hey",
+			"indices": [],
+			"name": "HEY!!"
+		},
+		{
+			"offsets": [
+				-6,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "ALT 2 BF LEFT"
+		},
+		{
+			"offsets": [
+				1,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "ALT 2 BF RIGHT"
+		},
+		{
+			"offsets": [
+				-10,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "ALT 2 BF UP"
+		},
+		{
+			"offsets": [
+				-10,
+				-161
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "ALT 2 BF DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "BF idle alt"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BF idle alt"
+		},
+		{
+			"offsets": [
+				-6,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ALT 2 BF LEFT"
+		},
+		{
+			"offsets": [
+				1,
+				-25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ALT 2 BF RIGHT"
+		},
+		{
+			"offsets": [
+				-10,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ALT 2 BF UP"
+		},
+		{
+			"offsets": [
+				-9,
+				-159
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ALT 2 BF DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PietroV3",
+	"position": [
+		-100,
+		150
+	],
+	"healthicon": "icon-pietrov2",
+	"flip_x": true,
+	"healthbar_colors": [
+		67,
+		68,
+		70
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-61
+			],
+			"anim": "hey",
+			"fps": 22,
+			"name": "HEY!!",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-25
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-159
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-30
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "ALT 2 BF LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-25
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "ALT 2 BF RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-130
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ALT 2 BF UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-161
+			],
+			"anim": "singDOWN-alt",
+			"fps": 20,
+			"name": "ALT 2 BF DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "BF idle alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PietroV3",
+	"position": [
+		-100,
+		150
+	],
+	"healthicon": "icon-pietrov2",
+	"flip_x": true,
+	"healthbar_colors": [
+		67,
+		68,
+		70
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

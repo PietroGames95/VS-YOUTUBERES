@@ -1,0 +1,139 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				15,
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "ALT BF idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-10
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "ALT 2 BF LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				13
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "ALT 2 BF DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-4
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ALT 2 BF UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "ALT 2 BF RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ALT 2 BF LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ALT 2 BF DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ALT 2 BF UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ALT 2 BF RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RK_ALT",
+	"position": [
+		-320,
+		-30
+	],
+	"healthicon": "RK",
+	"flip_x": true,
+	"healthbar_colors": [
+		140,
+		0,
+		46
+	],
+	"camera_position": [
+		210,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

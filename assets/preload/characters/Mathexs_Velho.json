@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				84
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-17,
+				85
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-15,
+				97
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				2,
+				83
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				-5,
+				82
+			],
+			"indices": [
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"fps": 10,
+			"anim": "idle",
+			"loop": false,
+			"name": "BF idle dance"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Mathexs_Velho",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		10,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
