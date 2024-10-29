@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "historia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "o bf como sempre , ganha a batalha "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "historia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "o mathexs fala que essa foi uma vitoria justa"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "historia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "entao os 2 se separam e vai para casa dormir"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "historia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "por que ja era 10 da noite"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "historia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "historia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "e no outro dia "
+		}
+	]
+}
